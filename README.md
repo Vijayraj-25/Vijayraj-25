@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vijayraj-25
-- 👀 I’m interested in ... coding,datscience
+- 👀 I’m interested in ... coding,datascience
 - 🌱 I’m currently learning ...c,c++,python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@vija_25 in instagram
